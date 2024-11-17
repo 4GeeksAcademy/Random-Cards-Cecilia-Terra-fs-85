@@ -21,7 +21,9 @@ body {
     bottom: 20px;
     right: 20px;
     font-size: 80px;
+    rotate: 180deg;
   }
+
   #number {
     text-align: center;
     margin-top: 150px;
